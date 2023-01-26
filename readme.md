@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto 01 - Explorer - desafio 02 </h1>
+<h1 align="center"> Projeto 02 - Explorer </h1>
 
 <p align="center">
 O Explorer é um programa completo que reúne tudo o que você precisa para desenvolver suas habilidades técnicas e comportamentais, com acompanhamento de uma equipe qualificada da Rocketseat, para alcançar sua primeira vaga no mercado de programação. <br/>
@@ -17,7 +17,7 @@ O Explorer é um programa completo que reúne tudo o que você precisa para dese
 <br>
 
 <p align="center">
-  <img alt="Projeto 01 -Desafio 02 - Flutuar" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto 02" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -30,13 +30,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto 01 é uma criação de uma Landing-Page básica para aplicar o conhecimendo básico do HTML e CSS.
+O projeto 02 é uma criação de uma Landing-Page básica para aplicar o conhecimendo básico do HTML e CSS.
 
 - [Visite o projeto online](https://lucasrsillva2000.github.io/Projeto-01-explorer-desafio02/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-Extra/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
