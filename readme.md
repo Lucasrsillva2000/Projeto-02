@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto 02 é uma criação de uma Landing-Page básica para aplicar o conhecimendo básico do HTML e CSS.
 
-- [Visite o projeto online](https://lucasrsillva2000.github.io/Projeto-01-explorer-desafio02/)
+- [Visite o projeto online](https://lucasrsillva2000.github.io/Projeto-02-explorer/)
 
 ## 🔖 Layout
 
